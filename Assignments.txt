@@ -1,0 +1,3 @@
+A1 - CNC code to engrave your name
+A2 - CNC code to make a smiley face
+A3 - Generate the g-code for engraving a 2D grayscale picture lithophane using matlab.

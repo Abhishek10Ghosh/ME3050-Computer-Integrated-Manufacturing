@@ -1,0 +1,39 @@
+{
+      "units": "metric",
+      "resolution-mode": "medium",
+      "resolution": 1,
+      "tools": {
+        "1": {
+          "units": "metric",
+          "shape": "cylindrical",
+          "length": 10,
+          "diameter": 0.1,
+          "description": ""
+        },
+        "2": {
+          "units": "metric",
+          "shape": "cylindrical",
+          "length": 10,
+          "diameter": 0.5,
+          "description": ""
+        },
+        "3": {
+          "units": "metric",
+          "shape": "cylindrical",
+          "length": 10,
+          "diameter": 0.2,
+          "description": ""
+        }
+      },
+      "workpiece": {
+        "automatic": true,
+        "margin": 5,
+        "bounds": {
+          "min": [-1.15, -1.65, -2.1],
+          "max": [2.15, 1.65, 0]
+        }
+      },
+      "files": [
+        "..\\..\\..\\..\\A2.nc"
+      ]
+    }
